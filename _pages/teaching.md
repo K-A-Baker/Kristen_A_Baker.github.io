@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Teaching and Mentorship"
+permalink: /teaching/
 author_profile: true
 ---
 
