@@ -85,7 +85,7 @@ author:
   bio              : "Newton International Fellow (Royal Society)"
   location         : "University of Kent, School of Psychology"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=PnRe360AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Kristen-Baker-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiaG9tZSJ9fQ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6380-7686"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "K_A_Baker"
