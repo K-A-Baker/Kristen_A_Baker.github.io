@@ -1,52 +1,42 @@
 ---
 layout: archive
-title: "Teaching and Mentorship"
+title: <font color="#008080"><i>Teaching and Mentorship</i> </font>
 permalink: /teaching/
 author_profile: true
 ---
 
-<u>Lectures</u> 
+<font color="#2F4F4F"><u>Lectures</u> </font>
 
-To be given...
+<i>Up and coming</i>
 
-PSYC6330 (Applying Psychology; 2023)
+PSYC6330 (Applying Psychology; University of Kent; 2023)
 
 
-<u>Teaching experience</u>
+<font color="#2F4F4F"><u>Teaching experience</u></font>
 
-SEMINAR LEADER/LAB DEMONSTRATOR (Brock University)
+<i>SEMINAR LEADER/LAB DEMONSTRATOR (Brock University)</i>
 
-09/2021 – 01/2022		PSYC 4P92 (History of Psychology)
+PSYC 4P92 (History of Psychology; 09/2021 – 01/2022; 09/2020 – 01/2021; 09/2019 – 05/2020)
 
-01/2021 – 05/2021		PSYC 2P12 (Lifespan Development)
+PSYC 2P12 (Lifespan Development; 01/2021 – 05/2021)
 
-09/2020 – 01/2021		PSYC 4P92 (History of Psychology) 
+PSYC 2P49 (Perception; 05/2020 – 01/2021; 09/2018 – 12/2018)
 
-05/2020 – 01/2021		PSYC 2P49 (Perception)
+PSYC 2P20 (Cognition; 01/2020 – 05/2020; 01/2019 – 05/2019; 01/2017 – 05/2017) 
 
-01/2020 – 05/2020		PSYC 2P20 (Cognition) 
+PSYC 2P25 (Personality; 09/2019 – 12/2019)
 
-09/2019 – 05/2020		PSYC 4P92 (History of Psychology) 
+PSYC 2P45 (Learning; 01/2018 – 05/2018) 
 
-09/2019 – 12/2019 		PSYC 2P25 (Personality)
+PSYC 3P39 (Computer Data Analysis; 09/2017 – 12/2017)
 
-01/2019 – 05/2019		PSYC 2P20 (Cognition) 
-
-09/2018 – 12/2018 		PSYC 2P49 (Perception)
-
-01/2018 – 05/2018		PSYC 2P45 (Learning) 
-
-09/2017 – 12/2017 		PSYC 3P39 (Computer Data Analysis)
-
-01/2017 – 05/2017 		PSYC 2P20 (Cognition)
-
-09/2016 – 12/2016 		PSYC 2P30 (Fundamentals of Social Psychology)
+PSYC 2P30 (Fundamentals of Social Psychology; 09/2016 – 12/2016)
 
 
 
-<u>Mentorship</u>
+<font color="#2F4F4F"><u>Mentorship</u></font>
 
-STUDENT RESEARCH-SUPERVISON (Brock University)
+<i>STUDENT RESEARCH-SUPERVISON (Brock University)</i>
 
 2021-2022	Undergraduate Honour’s Thesis student (research techniques, programming, data analysis)
 
