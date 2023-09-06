@@ -15,15 +15,17 @@ author_profile: true
 
 Laurence, S., <b>Baker, K. A.</b>, Proietti, V.M., & Mondloch, C.J. (in press). What happens to our representation of identity as familiar faces age? Evidence from priming and identity aftereffects. British Journal of Psychology.
 
-</b>Baker, K. A.</b>, & Mondloch, C. J. (2019). Two sides of face learning: Improving between-identity discrimination identities while tolerating more within-person variability in appearance. Perception, 48(11), 1124-1145.
+<b>Baker, K. A.</b>, & Mondloch, C. J. (2019). Two sides of face learning: Improving between-identity discrimination identities while tolerating more within-person variability in appearance. Perception, 48(11), 1124-1145.
 
 Zhou, X., Matthews, C., <b>Baker, K. A.</b>, & Mondloch, C. J. (2018). Becoming familiar with a newly encountered face: Evidence of an own-race advantage. Perception, 47(8), 807-820. 
 
 <b>Baker, K. A.</b>, Laurence, S., & Mondloch, C. J. (2017). How does a newly encountered face become familiar? The effect of within-person variability on adults’ and children’s perception of identity. Cognition, 161, 19-30. 
 
+
 <u>Under review</u>
 
 Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J. An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability.  Submitted to JARMAC. 
+
 
 <u>Forthcoming (data collection complete)</u>
 
