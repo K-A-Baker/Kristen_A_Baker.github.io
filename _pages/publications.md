@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: <font color="#008080"> "Publications" </font>
 permalink: /publications/
 author_profile: true
 ---
 
-<font color="#008080"> <u>Peer-reviewed works</u> </font>
+<u>Peer-reviewed works</u> 
 
 <b>Baker, K.A.</b>, Mondloch, C.J. Unfamiliar face matching ability predicts the slope of face learning. Sci Rep 13, 5248 (2023). https://doi.org/10.1038/s41598-023-32244-w
 
@@ -13,7 +13,7 @@ author_profile: true
 
 <b>Baker, K.A.</b> & Mondloch C.J. (2022). Picture this: Photographers no better than controls for recognizing unfamiliar faces. Perception.
 
-Laurence, S., <b>Baker, K. A.</b>, Proietti, V.M., & Mondloch, C.J. (in press). What happens to our representation of identity as familiar faces age? Evidence from priming and identity aftereffects. British Journal of Psychology.
+Laurence, S., <b>Baker, K. A.</b>, Proietti, V.M., & Mondloch, C.J. (2022). What happens to our representation of identity as familiar faces age? Evidence from priming and identity aftereffects. British Journal of Psychology.
 
 <b>Baker, K. A.</b>, & Mondloch, C. J. (2019). Two sides of face learning: Improving between-identity discrimination identities while tolerating more within-person variability in appearance. Perception, 48(11), 1124-1145.
 
