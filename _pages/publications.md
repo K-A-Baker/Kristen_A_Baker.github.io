@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font color="green"> <u>Peer-reviewed works</u> </font>
+<font color="#008080"> <u>Peer-reviewed works</u> </font>
 
 <b>Baker, K.A.</b>, Mondloch, C.J. Unfamiliar face matching ability predicts the slope of face learning. Sci Rep 13, 5248 (2023). https://doi.org/10.1038/s41598-023-32244-w
 
