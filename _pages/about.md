@@ -16,7 +16,7 @@ Prior to coming to the University of Kent, I completed my MA (funded by Ontario 
 
 <font color="#2F4F4F"><b>Research interests</b></font>
 
-As you might expect, my primary research interests involve face identification (i.e., unfamiliar and familiar face identification, face learning) and decision making. Additionally, I also am interested in other topics such as attention, cognition, and perception. I am also interested in using tools such as AI, VR and eyetracking in addition to behavioural measures to investigate these processes.
+As you might expect, my primary research interests involve face identification (i.e., unfamiliar and familiar face identification, face learning) and decision making. I also am interested in other topics such as attention, cognition, and perception. I  in using tools such as AI, VR and eyetracking to investigate these processes.
 
 <html>
 <body style="background-color:#fff8f4;">
