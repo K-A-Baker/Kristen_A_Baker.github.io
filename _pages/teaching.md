@@ -5,14 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<font color="#2F4F4F"><u>Lectures</u> </font>
+<font color="#2F4F4F"><b>Lectures</b> </font>
 
 <i>Up and coming</i>
 
 PSYC6330 (Applying Psychology; University of Kent; 2023)
 
 
-<font color="#2F4F4F"><u>Teaching experience</u></font>
+<font color="#2F4F4F"><b>Teaching experience</b></font>
 
 <i>SEMINAR LEADER/LAB DEMONSTRATOR (Brock University)</i>
 
@@ -34,7 +34,7 @@ PSYC 2P30 (Fundamentals of Social Psychology; 09/2016 – 12/2016)
 
 
 
-<font color="#2F4F4F"><u>Mentorship</u></font>
+<font color="#2F4F4F"><b>Mentorship</b></font>
 
 <i>STUDENT RESEARCH-SUPERVISON (Brock University)</i>
 

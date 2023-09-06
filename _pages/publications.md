@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font color="#2F4F4F"><u>Peer-reviewed works</u></font>
+<font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
 <b>Baker, K.A.</b>, Mondloch, C.J. Unfamiliar face matching ability predicts the slope of face learning. Sci Rep 13, 5248 (2023). https://doi.org/10.1038/s41598-023-32244-w
 
@@ -22,17 +22,17 @@ Zhou, X., Matthews, C., <b>Baker, K. A.</b>, & Mondloch, C. J. (2018). Becoming 
 <b>Baker, K. A.</b>, Laurence, S., & Mondloch, C. J. (2017). How does a newly encountered face become familiar? The effect of within-person variability on adults’ and children’s perception of identity. Cognition, 161, 19-30. 
 
 
-<font color="#2F4F4F"><u>Under review</u></font>
+<font color="#2F4F4F"><b>Under review</b></font>
 
 Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J. An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability.  Submitted to JARMAC. 
 
 
-<font color="#2F4F4F"><u>Forthcoming (data collection complete)</u></font>
+<font color="#2F4F4F"><b>Forthcoming (data collection complete)</b></font>
 
 <b>Baker, K.A.</b>, Stabile, V. J. & Mondloch, C.J. Hits and False alarms are related when you take decision-making into account.  (Submitting: December, 2023). 
 
 
-<font color="#2F4F4F"><u>Published abstracts</u></font>
+<font color="#2F4F4F"><b>Published abstracts</b></font>
 
 <b>Baker, K. A.</b>, Stabile, V. J., & Mondloch, C. J. (2023). Erring on the side of caution: The influence of base rates, payoffs, and discriminability on face identification performance. Journal of Vision, 23(9), 5438-5438.
 
