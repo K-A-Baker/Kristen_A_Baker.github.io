@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: <font color="#2F4F4F">Publications </font>
+  - title: "Publications"
     url: /publications/
 
-  - title: <font color="#2F4F4F">Talks </font>
+  - title: "Talks"
     url: /talks/    
 
-  - title: <font color="#2F4F4F">Teaching and Mentoring</font>
+  - title: "Teaching and Mentorship"
     url: /teaching/    
     
-  - title: <font color="#2F4F4F">CV</font>
+  - title: "CV"
     url: /cv/
     
-  - title: <font color="#2F4F4F">On going projects</font>
+  - title: "On going projects"
     url: /projects/
-
-<html>
-<body style="background-color:#fff8f4;">
-
-</body>
-</html>
