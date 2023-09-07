@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://k-a-baker.github.io/Kristen_A_Baker.github.io/files/cv" type='application/pdf'>
+<embed src="https://k-a-baker.github.io/Kristen_A_Baker.github.io/files/CV_Baker.pdf" type='application/pdf'>
 
