@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /talks/
 title: <font color="#008080">Talks and Presentations</font>
+permalink: /talks/
 author_profile: true
 ---
 
@@ -39,5 +39,9 @@ Matthews, C.M., <b>Baker, K.A.</b>, Laurence, S. & Mondloch, C. l. (2017, April)
 
 <b>Baker, K.A.<b/>, Laurence, S. & Mondloch, C.J. (2016, May). How does a newly encountered face become Familiar? Vision Sciences Society, St. Pete Beach, United States.
 
+<html>
+<body style="background-color:#fff8f4;">
 
+</body>
+</html>
 

@@ -47,3 +47,9 @@ Mondloch, C., Stabile, V., & <b>Baker, K.</b> (2022, December). Optimizing face 
 <b>Baker, K.A.</b>, Laurence, S. & Mondloch, C.J. (2018). Building a representation of newly encountered faces: A role for context? Journal of Vision, 18(10), 557-557.
 
 <b>Baker, K.A.</b>, Laurence, S. & Mondloch, C.J. (2016). How does a newly encountered face become familiar? Journal of Vision, 16 (12), 913.
+
+<html>
+<body style="background-color:#fff8f4;">
+
+</body>
+</html>
