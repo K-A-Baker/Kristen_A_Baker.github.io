@@ -7,7 +7,7 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
-<b>Baker, K.A.</b>, Mondloch, C.J. Unfamiliar face matching ability predicts the slope of face learning. Sci Rep 13, 5248 (2023). https://doi.org/10.1038/s41598-023-32244-w
+<b>Baker, K.A.</b>, Mondloch, C.J. (2023). Unfamiliar face matching ability predicts the slope of face learning. Scientific Reports 13, 5248 . https://doi.org/10.1038/s41598-023-32244-w
 
 <b>Baker, K. A.</b>, Stabile, V. J., & Mondloch, C. J. (2023). Stable individual differences in unfamiliar face identification: Evidence from simultaneous and sequential matching tasks. Cognition, 232, 105333.
 
