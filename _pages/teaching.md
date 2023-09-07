@@ -7,13 +7,13 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Lectures</b> </font>
 
-PSYC6330 (Applying Psychology; University of Kent; 2023)
+* List item one PSYC6330 (Applying Psychology; University of Kent; 2023)
 
 
 
 <font color="#2F4F4F"><b>Seminar Leader/Lab Demonstrater</b></font>
 
-PSYC 4P92 (History of Psychology at Brock University; 09/2021 – 01/2022; 09/2020 – 01/2021; 09/2019 – 05/2020)
+* List item one PSYC 4P92 (History of Psychology at Brock University; 09/2021 – 01/2022; 09/2020 – 01/2021; 09/2019 – 05/2020)
 
 PSYC 2P12 (Lifespan Development at Brock University; 01/2021 – 05/2021)
 
