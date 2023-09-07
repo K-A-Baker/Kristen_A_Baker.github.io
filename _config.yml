@@ -14,7 +14,7 @@ description              : &description "Newton International Fellow (Royal Soci
 url                      : https://k-a-baker.github.io/Kristen_A_Baker.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "K-A-Baker/Kristen_A_Baker.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "IMG_1782.JPG"
+teaser                   :   filename of teaser fallback teaser image placed in /images/, .e.g. "IMG_1782.JPG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
