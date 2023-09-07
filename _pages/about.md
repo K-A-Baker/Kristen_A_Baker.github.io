@@ -11,7 +11,7 @@ redirect_from:
 
 I am working at the University of Kent in the School of Psychology as a <i>Newton International Fellow (Royal Society)</i>. I am working with Dr. Markus Bindemann to exploring the role of decision making in face identification. This research not only has important theoretical implications for models of face identification and recognition, but also has important implications for practical settings (e.g., eyewitness testimony, border patrol settings). 
 
-Prior to coming to the University of Kent, I completed my MA (funded by Ontario Graduate Scholarships) and PhD (funded by the Natural Sciences and Engineering Research Council of Canada and an Ontario Graduate Scholarship) at Brock University under the supervision of Dr. Catherine J. Mondloch. My dissertation research focused on investigating individual differences in face identification and face learning. In other projects, I have used cognitive, neuro and developmental methods to investigate many aspects of face identification.
+Prior to coming to the University of Kent, I completed my MA (funded by Ontario Graduate Scholarships) and PhD (funded by the Natural Sciences and Engineering Research Council of Canada and an Ontario Graduate Scholarship) at Brock University under the supervision of Dr. Catherine J. Mondloch. My dissertation research focused on investigating individual differences in face identification and face learning. In other projects, I have used cognitive, neural measures and developmental methods to investigate many aspects of face identification.
 
 
 <font color="#2F4F4F"><b>Research interests</b></font>
