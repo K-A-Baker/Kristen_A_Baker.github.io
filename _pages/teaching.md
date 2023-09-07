@@ -11,6 +11,7 @@ author_profile: true
 PSYC6330 (Applying Psychology; University of Kent; 2023)
 
 
+
 <font color="#2F4F4F"><b>Seminar Leader/Lab Demonstrater (Brock University)</b></font>
 
 PSYC 4P92 (History of Psychology; 09/2021 – 01/2022; 09/2020 – 01/2021; 09/2019 – 05/2020)
@@ -28,6 +29,7 @@ PSYC 2P45 (Learning; 01/2018 – 05/2018)
 PSYC 3P39 (Computer Data Analysis; 09/2017 – 12/2017)
 
 PSYC 2P30 (Fundamentals of Social Psychology; 09/2016 – 12/2016)
+
 
 
 
