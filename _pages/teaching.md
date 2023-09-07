@@ -5,16 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<font color="#2F4F4F"><b>Lectures</b> </font>
 
-<i>Up and coming</i>
+<font color="#2F4F4F"><b>Lectures</b> </font>
 
 PSYC6330 (Applying Psychology; University of Kent; 2023)
 
 
-<font color="#2F4F4F"><b>Teaching experience</b></font>
-
-<i>SEMINAR LEADER/LAB DEMONSTRATOR (Brock University)</i>
+<font color="#2F4F4F"><b>Seminar Leader/Lab Demonstrater (Brock University)</b></font>
 
 PSYC 4P92 (History of Psychology; 09/2021 – 01/2022; 09/2020 – 01/2021; 09/2019 – 05/2020)
 
@@ -34,9 +31,7 @@ PSYC 2P30 (Fundamentals of Social Psychology; 09/2016 – 12/2016)
 
 
 
-<font color="#2F4F4F"><b>Mentorship</b></font>
-
-<i>STUDENT RESEARCH-SUPERVISON (Brock University)</i>
+<font color="#2F4F4F"><b>Student Research Supervision/Mentorship</b></font>
 
 2021-2022	Undergraduate Honour’s Thesis student (research techniques, programming, data analysis)
 
@@ -60,4 +55,3 @@ PSYC 2P30 (Fundamentals of Social Psychology; 09/2016 – 12/2016)
 
 </body>
 </html>
-

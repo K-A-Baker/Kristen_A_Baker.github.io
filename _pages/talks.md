@@ -37,7 +37,7 @@ Mondloch, C.J., Stabile, V.J., & <b>Baker, K.A.</b> (2022, August) Optimizing fa
 
 Matthews, C.M., <b>Baker, K.A.</b>, Laurence, S. & Mondloch, C. l. (2017, April), Learning a new face: The influence of variability in appearance on children's perception of identity. Poster abstract submitted to Society for Research and Child Development Biennial Meeting. Austin, TX, USA.
 
-<b>Baker, K.A.<b/>, Laurence, S. & Mondloch, C.J. (2016, May). How does a newly encountered face become Familiar? Vision Sciences Society, St. Pete Beach, United States.
+<b>Baker, K.A.</b>, Laurence, S. & Mondloch, C.J. (2016, May). How does a newly encountered face become Familiar? Vision Sciences Society, St. Pete Beach, United States.
 
 <html>
 <body style="background-color:#fff8f4;">
