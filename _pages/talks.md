@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <font color="#008080">Talks and Presentations</font>
+title: <font color="#008080"><i>Talks and Presentations</i></font>
 permalink: /talks/
 author_profile: true
 ---
