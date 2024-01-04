@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: <font color="#008080"><i>Research Background and  Interests</i> </font>
+title: <font color="#008080"><i>Dr. Kristen A. Baker</i> </font>
 excerpt: "Interests"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<font color="#2F4F4F"><b>Background</b></font>
+<font color="#2F4F4F"><b>Research Background</b></font>
 
 I am working at the University of Kent in the School of Psychology as a <i>Newton International Fellow (Royal Society)</i>. I am working with Dr. Markus Bindemann to explore the role of decision making in face identification. This research not only has important theoretical implications for models of face identification and learning, but also has important implications for practical settings (e.g., eyewitness testimony, border patrol settings). 
 
