@@ -9,6 +9,7 @@ author_profile: true
 
 * PSYC6330 (Applying Psychology; University of Kent; 2023)
 
+* PSYC8640 (Current Issues in Cognitive Psychology and Neuropsychology; University of Kent; 2023 )
 
 
 <font color="#2F4F4F"><b>Seminar Leader/Lab Demonstrater</b></font>
