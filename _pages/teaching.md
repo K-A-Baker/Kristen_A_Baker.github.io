@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<font color="#2F4F4F"><b>Lectures</b> </font>
+<font color="#2F4F4F"><b>Lecturing/ Modules taught</b> </font>
 
 * PSYC6330 (Applying Psychology; University of Kent; 2023)
 
-* PSYC8640 (Current Issues in Cognitive Psychology and Neuropsychology; University of Kent; 2023 )
+* PSYC8640 (Current Issues in Cognitive Psychology and Neuropsychology; University of Kent; 2023)
 
 
 <font color="#2F4F4F"><b>Seminar Leader/Lab Demonstrater</b></font>
@@ -32,7 +32,12 @@ author_profile: true
 
 
 <font color="#2F4F4F"><b>Student Research Supervision/Mentorship</b></font>
-<i>Undergraduate Theses</i>
+<i>Graduate Student Supervision</i>
+* 2023-2024	Two MSc Thesis students 
+
+
+<i>Undergraduate Student Supervision</i>
+* 2023-2024	Four undergraduate Thesis students 
 
 * 2021-2022	Undergraduate Honour’s Thesis student (research techniques, programming, data analysis)
 
@@ -44,7 +49,7 @@ author_profile: true
 
 * 2020		"USRA" undergraduate student (research techniques, data analysis)
 
-* 2019-2020      	"Match of minds" undergraduate student (research techniques and EEG).
+* 2019-2020     "Match of minds" undergraduate student (research techniques and EEG).
 
 * 2017 		Honour's Thesis Student (data analysis).
  
