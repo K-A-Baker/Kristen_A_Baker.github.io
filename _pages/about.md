@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <font color="#008080"><i>Dr. Kristen A. Baker</i> </font>
+title: <font color="#008080"><i>My Reasearch</i> </font>
 excerpt: "Interests"
 author_profile: true
 redirect_from: 
