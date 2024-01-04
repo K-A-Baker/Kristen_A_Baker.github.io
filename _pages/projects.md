@@ -1,6 +1,7 @@
 ---
+layout: archive
+title: <font color="#008080"><i>On going projects</i></font>
 permalink: /projects/
-title: "On going projects"
 author_profile: true
 
 <font color="#2F4F4F"><b>Background</b></font>
