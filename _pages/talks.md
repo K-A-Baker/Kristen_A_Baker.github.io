@@ -9,13 +9,13 @@ author_profile: true
 
 * <b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (February, 2024). How do we recognize faces? Invited talk for Royal Society's Lates Event. London, United Kingdom.
 
-*<b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). Decisions in Unfamiliar Face Matching. Invited talk for Open University (Forensic Cognition Research Group). United Kingdom.
+* <b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). Decisions in Unfamiliar Face Matching. Invited talk for Open University (Forensic Cognition Research Group). United Kingdom.
 
-*<b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). Considering Decisions in Unfamiliar Face Matching. Invited talk for the University of Bedfordshire (Forensic Research Group). Luton, United Kingdom.
+* <b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). Considering Decisions in Unfamiliar Face Matching. Invited talk for the University of Bedfordshire (Forensic Research Group). Luton, United Kingdom.
 
-*<b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). The challenge of face identification: A role for decision making. Invited talk for the University of Reading’s External Seminar Series (School of Psychology and Clinical Language Sciences). Reading, United Kingdom.
+* <b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). The challenge of face identification: A role for decision making. Invited talk for the University of Reading’s External Seminar Series (School of Psychology and Clinical Language Sciences). Reading, United Kingdom.
 
-*<b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). Decisions, Decisions: The Challenge of Unfamiliar Face Matching. Talk for The University of Kent (School of Psychology). Canterbury, United Kingdom.
+* <b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). Decisions, Decisions: The Challenge of Unfamiliar Face Matching. Talk for The University of Kent (School of Psychology). Canterbury, United Kingdom.
 
 
 <font color="#2F4F4F"><b>Conference talks</b> </font>
