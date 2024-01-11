@@ -18,6 +18,12 @@ Prior to coming to the University of Kent, I completed my MA (funded by Ontario 
 
 As you might expect, my primary research interests involve face identification (i.e., unfamiliar and familiar face identification, face learning) and decision making. I also am interested in other topics such as attention, cognition, and perception. I am interested in using a wide-assortment of methods (e.g., AI, EEG, behaviour and eyetracking) to investigate these processes.
 
+
+<font color="#2F4F4F"><b>Latest Announcements</b></font>
+* New paper accepted at JARMAC! 
+* You can now find me on blue sky [@] k-a-baker.bsky.social
+* Or, you could browse my page on the kent website: https://www.kent.ac.uk/psychology/people/4811/baker-kristen
+
 <html>
 <body style="background-color:#fff8f4;">
 
