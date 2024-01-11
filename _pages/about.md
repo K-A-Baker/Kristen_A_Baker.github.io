@@ -22,7 +22,7 @@ As you might expect, my primary research interests involve face identification (
 <font color="#2F4F4F"><b>Latest Announcements</b></font>
 * New paper accepted at JARMAC! 
 * You can now find me on blue sky [@] k-a-baker.bsky.social
-* Or, you could browse my page on the kent website: https://www.kent.ac.uk/psychology/people/4811/baker-kristen
+* Or, you could browse my page on the University of Kent website: https://www.kent.ac.uk/psychology/people/4811/baker-kristen
 
 <html>
 <body style="background-color:#fff8f4;">
