@@ -33,17 +33,27 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Student Research Supervision/Mentorship</b></font>
 <i>Graduate Student Supervision</i>
-* 2023-2024	Two MSc Thesis students 
+* 2023-2024	MSc Thesis student 
+
+* 2023-2024	MSc Thesis student 
 
 
 <i>Undergraduate Student Supervision</i>
-* 2023-2024	Four undergraduate Thesis students 
+* 2023-2024	Undergraduate Thesis student 
+
+* 2023-2024	Undergraduate Thesis student 
+
+* 2023-2024	Undergraduate Thesis student 
+
+* 2023-2024	Undergraduate Thesis student 
 
 * 2021-2022	Undergraduate Honour’s Thesis student (research techniques, programming, data analysis)
 
 * 2018-2019 	Honour's Thesis Student (programming, data analysis).
 
+
 <i>Undergraduate Independent Research Projects</i>
+* 2023-2024	Undergraduate Project Student (research techniques, programming, data analysis, writing)
 
 * 2021		"USRA" undergraduate student (research techniques, programming, data analysis)
 

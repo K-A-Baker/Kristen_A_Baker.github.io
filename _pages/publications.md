@@ -7,7 +7,7 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
-* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (In Press). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability. JARMAC. 
+* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability. JARMAC. 
 
 * <b>Baker, K.A.</b> & Mondloch, C.J. (2023). Unfamiliar face matching ability predicts the slope of face learning. Scientific Reports 13, 5248. doi: https://doi.org/10.1038/s41598-023-32244-w
 
@@ -30,9 +30,9 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Forthcoming (data collection complete)</b></font>
 
-* <b>Baker, K.A.</b> & Bindemann, M. Yes, No, Maybe-so: The Framing of response options yields no influence on face identification decisions.  (Submitting: January, 2024). 
+* <b>Baker, K.A.</b> & Bindemann, M. Yes, No, Maybe-so: The Framing of response options yields no influence on face identification decisions.  (Submitting: February, 2024). 
 
-* <b>Baker, K.A.</b>, Stabile, V. J. & Mondloch, C.J. Hits and False alarms are related when you take decision-making into account.  (Submitting: May, 2024). 
+* <b>Baker, K.A.</b>, Stabile, V. J. & Mondloch, C.J. Hits and False alarms are related when you take decision-making into account.  (Submitting: March, 2024). 
 
 
 <font color="#2F4F4F"><b>Published abstracts</b></font>
