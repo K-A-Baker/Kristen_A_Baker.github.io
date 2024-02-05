@@ -7,7 +7,7 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
-* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability. JARMAC. 
+* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability. JARMAC. Advance online publication. https://doi.org/10.1037/mac0000157
 
 * <b>Baker, K.A.</b> & Mondloch, C.J. (2023). Unfamiliar face matching ability predicts the slope of face learning. Scientific Reports 13, 5248. doi: https://doi.org/10.1038/s41598-023-32244-w
 
