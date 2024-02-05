@@ -30,7 +30,7 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Forthcoming (data collection complete)</b></font>
 
-* <b>Baker, K.A.</b> & Bindemann, M. Yes, No, Maybe-so: The Framing of response options yields no influence on face identification decisions.  (Submitting: February, 2024). 
+* <b>Baker, K.A.</b> & Bindemann, M. Yes, No, Maybe-so: The Framing of response options yields no influence on face identification decisions.  (Submitting: January, 2024). 
 
 * <b>Baker, K.A.</b>, Stabile, V. J. & Mondloch, C.J. Hits and False alarms are related when you take decision-making into account.  (Submitting: March, 2024). 
 
