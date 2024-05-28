@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <font color="#008080"><i>My Reasearch</i> </font>
+title: <font color="#008080"><i>My Research</i> </font>
 excerpt: "Interests"
 author_profile: true
 redirect_from: 
