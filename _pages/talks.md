@@ -20,6 +20,8 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Conference talks</b> </font>
 
+* <b>Baker, K.A.</b>, Brenock, N., Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2024, March). Unfamiliar Face Identification: Individual differences in ability and decision making. Talk presented for the Annual Icelandic Vision Meeting, Reykjavík, Iceland.
+
 * <b>Baker, K.A.</b> & Mondloch, C.J. (2023, April).  I will remember you: Face matching ability predicts the 
 slope of face learning. Talk presented at EPS, Plymouth, England.
 

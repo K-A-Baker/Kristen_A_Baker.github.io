@@ -20,7 +20,7 @@ As you might expect, my primary research interests involve face identification (
 
 
 <font color="#2F4F4F"><b>Latest Announcements</b></font>
-* I will be attending the <i>EPS workshop in July 2024</i> and <>iECVP in August 2024</i>. 
+* I will be attending the <i>EPS workshop in July 2024</i> and <i>ECVP in August 2024</i>. 
 * New paper published in <i>JARMAC</i>! Find it here: https://doi.org/10.1037/mac0000157 
 * Find me on blue sky [@] k-a-baker.bsky.social
 * Find me at the University of Kent: https://www.kent.ac.uk/psychology/people/4811/baker-kristen
