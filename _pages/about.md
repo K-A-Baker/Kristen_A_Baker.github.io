@@ -9,9 +9,9 @@ redirect_from:
 ---
 <font color="#2F4F4F"><b>Research Background</b></font>
 
-I am working at the University of Kent in the School of Psychology as a <i>Newton International Fellow (Royal Society)</i>. I am working with Dr. Markus Bindemann to explore the role of decision making in face identification. This research not only has important theoretical implications for models of face identification and learning, but also has important implications for practical settings (e.g., eyewitness testimony, border patrol settings). 
+I am working as a <i>Newton International Fellow (Royal Society)</i> at the University of Kent in the School of Psychology, UK. I am working with Prof. Markus Bindemann to explore the role of decision making in face identification. This research has important theoretical implications for models of face identification and learning, as well as important implications for practical settings (e.g., eyewitness testimony, border patrol settings). 
 
-Prior to coming to the University of Kent, I completed my MA (funded by Ontario Graduate Scholarships) and PhD (funded by the Natural Sciences and Engineering Research Council of Canada and an Ontario Graduate Scholarship) under the supervision of Dr. Catherine J. Mondloch at Brock University, Canada. My dissertation research focused on investigating individual differences in face identification and face learning. In other projects, I have used cognitive, neural measures and developmental methods to investigate many aspects of face identification.
+Prior to coming to the University of Kent, I completed my MA (funded by <i>Ontario Graduate Scholarships</i>) and PhD (funded by the <i>Natural Sciences and Engineering Research Council of Canada [CGS-D]</i> and an <i>Ontario Graduate Scholarship</i>) under the supervision of Dr. Catherine J. Mondloch at Brock University, Canada. My dissertation research focused on investigating individual differences in face identification and face learning. In other projects, I have used cognitive, neural measures and developmental methods to investigate many aspects of face identification.
 
 
 <font color="#2F4F4F"><b>Research Interests</b></font>
