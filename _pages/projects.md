@@ -15,7 +15,7 @@ In this first stream of research, I have been investigating the interplay betwee
 
 *<font color="#262e2e"><i> The process of face learning:</i></font>
 
-In this second stream of research, I am investigating the mechanisms underlying the process of learning a newly ecountered face. I have been using a wide-variety of approaches in these examinations; for example I am using developmental, experimental and individual approaches. These approaches have enabled me to examine variables that influence the efficency with which a newly encountered face is learned and also the potential predictors of face learning.  
+In this second stream of research, I have been investigating the mechanisms underlying the process of learning a newly ecountered face. I have been using a wide-variety of approaches in these examinations; for example I am using developmental, experimental and individual approaches. These approaches have enabled me to examine variables that influence the efficency with which a newly encountered face is learned and also the potential predictors of face learning.  
 
 <html>
 <body style="background-color:#fff8f4;">
