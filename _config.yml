@@ -11,9 +11,9 @@ title                    : "Research Interests"
 title_separator          : "-"
 name                     : &name "Kristen A. Baker"
 description              : &description "Newton International Fellow (Royal Society)"
-url                      : https://k-a-baker.github.io/Kristen_A_Baker.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://k-a-baker.github.io/K-A-Baker.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "K-A-Baker/Kristen_A_Baker.github.io"
+repository               : "K-A-Baker/K-A-Baker.github.io"
 teaser                   :   filename of teaser fallback teaser image placed in /images/, .e.g. "IMG_1782.JPG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Kristen A. Baker"
   avatar           : "Me.jpg"
   bio              : "Newton International Fellow (Royal Society)"
-  location         : "University of Kent, School of Psychology"
+  location         : " School of Psychology, Uni. of Kent"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=PnRe360AAAAJ&hl=en"
@@ -104,14 +104,14 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6380-7686"
-  #OSF              : "osf.io/b2ex4"
+  #OSF             : "osf.io/b2ex4"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "K_A_Baker"
-  #bluesky          :"https://bsky.app/profile/k-a-baker.bsky.social"
+  twitter          : #"K_A_Baker"
+  #bluesky         :"https://bsky.app/profile/k-a-baker.bsky.social"
   vine             :
   weibo            :
   xing             :
