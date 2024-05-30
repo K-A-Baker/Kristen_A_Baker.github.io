@@ -7,7 +7,7 @@ author_profile: true
 
 Face recognition is an important aspect in our lives, we need to recognize our family and friends--we even need to recognize actors in movies in order to follow the plot! Face recognition is also used in more security based settings, such as when we need to use our photographic-ID to cross borders or to purchase age-restricted goods. Whereas it is easy to be accurate in recognizing the faces of individuals with whom we are familiar (even when their appearance changes as a result of hairstyle, make-up, facial hair, age, etc) and to discriminate them from someone who looks similar, it is incredibly difficult to do this with the faces of individuals with whom we are unfamilair--leading to frequent errors. 
 
-<font color="#2F4F4F"><b>My current progects centre arount two key streams:</b></font>
+<font color="#2F4F4F"><b>Examples of my current research streams:</b></font>
 
 *<font color="#262e2e"><i> The role of decision-making:</i></font>
 
