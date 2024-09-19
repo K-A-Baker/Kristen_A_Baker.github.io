@@ -20,9 +20,10 @@ My primary research interests involve face identification (i.e., unfamiliar and 
 
 
 <font color="#2F4F4F"><b>Latest Announcements</b></font>
-You can find....
+
+You can find:
 * my new preprint, which poses a solution to the match-mismatch dissociation in unfamiliar face identification, here: DOI: 10.2139/ssrn.4947575
-* my recent paper on the influence of payoffs and base rates on face identification (published in <i>JARMAC</i>)here: https://doi.org/10.1037/mac0000157 
+* my recent paper, which investigates the influence of payoffs and base rates on face identification (published in <i>JARMAC</i>), here: https://doi.org/10.1037/mac0000157 
 * my profile on blue sky [@] k-a-baker.bsky.social
 * my profile at the University of Kent: https://www.kent.ac.uk/psychology/people/4811/baker-kristen
 
