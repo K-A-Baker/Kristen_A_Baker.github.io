@@ -7,7 +7,7 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
-* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability. JARMAC. Advance online publication. https://doi.org/10.1037/mac0000157
+* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability.  Journal of Applied Memory and Cognition. Advance online publication. https://doi.org/10.1037/mac0000157
 
 * <b>Baker, K.A.</b> & Mondloch, C.J. (2023). Unfamiliar face matching ability predicts the slope of face learning. Scientific Reports 13, Article 5248. doi: https://doi.org/10.1038/s41598-023-32244-w
 
@@ -24,17 +24,17 @@ author_profile: true
 * <b>Baker, K. A.</b>, Laurence, S., & Mondloch, C. J. (2017). How does a newly encountered face become familiar? The effect of within-person variability on adults’ and children’s perception of identity. Cognition, 161, 19-30. doi: https://doi.org/10.1016/j.cognition.2016.12.012
 
 
-<font color="#2F4F4F"><b>Under review</b></font>
+<font color="#2F4F4F"><b>Manuscripts that are under review</b></font>
 
-* <b>Baker, K.A.</b> & Bindemann, M. Decision-making framing in facial image comparison. Paper submitted to British Journal of Psychology. Submission # BJOP-2024-0253. 
+* <b>Baker, K.A.</b> & Bindemann, M. Decision-making framing in facial image comparison. Journal of Applied Memory and Cognition. Submission # JARMAC 2024-0587, 1-38. 
 
+* <b>Baker, K.A.</b>, Mondloch, C.J. Bindemann, M. (2024) A criterion-placement theory of face matching. Cognition. Submission # COGNIT-D-24-00948, 1-35. 
 
 <font color="#2F4F4F"><b>Forthcoming (data collection complete)</b></font>
 
-* <b>Baker, K.A.</b>, Bindemann, M. & Mondloch, C.J. (2024) Are recognition and discrimination dissociable processes? Paper to be submitted to Cognition on June, 2024
+* Brenock, N., <b>Baker, K.A.</b> & Bindemann, M. (2024) Individual differences in choice blindness and face matching. Paper to be submitted to Royal Society- Open Access in October, 2024. 
 
-*  Brenock, N., <b>Baker, K.A.</b> & Bindemann, M. (2024) Choice blindness in unfamiliar face matching. Paper to be submitted to Cognition on August, 2024
-
+* <b>Baker, K.A.</b> & Bindemann, M. (2024). Decision-making in unfamiliar face matching: Evidence of a repulsion effect. Paper to be submitted to Quarterly Journal of Experimental Psychology in November. 
 
 <font color="#2F4F4F"><b>Published abstracts</b></font>
 

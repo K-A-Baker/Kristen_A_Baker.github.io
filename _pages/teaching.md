@@ -12,7 +12,7 @@ author_profile: true
 * PSYC8640 (Current Issues in Cognitive Psychology and Neuropsychology; University of Kent; 2023)
 
 
-<font color="#2F4F4F"><b>Seminar Leader/Lab Demonstrater</b></font>
+<font color="#2F4F4F"><b>Seminar Leader/Lab Demonstrator</b></font>
 
 * PSYC 4P92 (History of Psychology at Brock University; 09/2021 – 01/2022; 09/2020 – 01/2021; 09/2019 – 05/2020)
 
@@ -33,42 +33,42 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Student Research Supervision/Mentorship</b></font>
 <i>Graduate Student Supervision</i>
-* 2023-2024	MSc Thesis student 
+* 2023-2024	MSc Thesis student (research design, programming, data analysis, writing), University of Kent
 
-* 2023-2024	MSc Thesis student 
+* 2023-2024	MSc Thesis student (research design, programming, data analysis, writing), University of Kent
 
 
 <i>Undergraduate Student Supervision</i>
-* 2023-2024	Undergraduate Thesis student 
+* 2023-2024	Undergraduate Thesis student (research design, programming, data analysis, writing), University of Kent
 
-* 2023-2024	Undergraduate Thesis student 
+* 2023-2024	Undergraduate Thesis student (research design, programming, data analysis, writing), University of Kent
 
-* 2023-2024	Undergraduate Thesis student 
+* 2023-2024	Undergraduate Thesis student (research design, programming, data analysis, writing), University of Kent
 
-* 2023-2024	Undergraduate Thesis student 
+* 2023-2024	Undergraduate Thesis student (research design, programming, data analysis, writing), University of Kent
 
-* 2021-2022	Undergraduate Honour’s Thesis student (research techniques, programming, data analysis)
+* 2021-2022	Undergraduate Honour’s Thesis student (research design, programming, data analysis), Brock University
 
-* 2018-2019 	Honour's Thesis Student (programming, data analysis).
+* 2018-2019 	Honour's Thesis Student (programming, data analysis), Brock University
 
 
 <i>Undergraduate Independent Research Projects</i>
-* 2023-2024	Undergraduate Project Student (research techniques, programming, data analysis, writing)
+* 2023-2024	Undergraduate project student (research design, programming, data analysis, writing), University of Kent
 
-* 2021		"USRA" undergraduate student (research techniques, programming, data analysis)
+* 2021		"USRA" undergraduate student (research design, programming, data analysis), Brock University
 
-* 2020		"USRA" undergraduate student (research techniques, data analysis)
+* 2020		"USRA" undergraduate student (research design, data analysis), Brock University
 
-* 2019-2020     "Match of minds" undergraduate student (research techniques and EEG).
+* 2019-2020     "Match of minds" undergraduate student (research design and EEG), Brock University
 
-* 2017 		Honour's Thesis Student (data analysis).
+* 2017 		Honour's Thesis Student (data analysis), Brock University
  
 
 <i>Highschool Mentorship Research Projects</i>
 
-* 2017-2018 	High School Mentorship Student (research techniques, data analysis)
+* 2017-2018 	High School Mentorship Student (research design, data analysis), Brock University
 
-* 2016-2017 	High School Mentorship Student (research techniques, data analysis)
+* 2016-2017 	High School Mentorship Student (research design, data analysis), Brock University
 
 <html>
 <body style="background-color:#fff8f4;">
