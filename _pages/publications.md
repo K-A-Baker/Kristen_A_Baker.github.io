@@ -7,29 +7,29 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
-* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability.  Journal of Applied Memory and Cognition. Advance online publication. https://doi.org/10.1037/mac0000157 <a href="https://www.researchgate.net/publication/377917065_Criterion_shifting_in_an_unfamiliar_face-matching_task_Effects_of_base_rates_payoffs_and_perceptual_discriminability" alt="Open access here"></a>
+* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability.  Journal of Applied Memory and Cognition. Advance online publication. https://doi.org/10.1037/mac0000157 <a href="https://www.researchgate.net/publication/377917065_Criterion_shifting_in_an_unfamiliar_face-matching_task_Effects_of_base_rates_payoffs_and_perceptual_discriminability">Open access here.</a>
 
-* <b>Baker, K.A.</b> & Mondloch, C.J. (2023). Unfamiliar face matching ability predicts the slope of face learning. Scientific Reports 13, Article 5248. doi: https://doi.org/10.1038/s41598-023-32244-w <a href="https://www.nature.com/articles/s41598-023-32244-w" alt="Open access here"></a>
+* <b>Baker, K.A.</b> & Mondloch, C.J. (2023). Unfamiliar face matching ability predicts the slope of face learning. Scientific Reports 13, Article 5248. doi: https://doi.org/10.1038/s41598-023-32244-w <a href="https://www.nature.com/articles/s41598-023-32244-w">Open access here.</a>
 
 * <b>Baker, K. A.</b>, Stabile, V. J., & Mondloch, C. J. (2023). Stable individual differences in unfamiliar face identification: Evidence from simultaneous and sequential matching tasks. Cognition, 232, Article 105333. doi: https://doi.org/10.1016/j.cognition.2022.105333 
 
 * <b>Baker, K.A.</b> & Mondloch C.J. (2022). Picture this: Photographers no better than controls for recognizing unfamiliar faces.  Perception, 51(8), 591-595. doi: https://doi.org/10.1177/03010066221098727
 
-* Laurence, S., <b>Baker, K. A.</b>, Proietti, V.M., & Mondloch, C.J. (2022). What happens to our representation of identity as familiar faces age? Evidence from priming and identity aftereffects. British Journal of Psychology, 113(3), 677-695. doi: https://doi.org/10.1111/bjop.12560 <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.12560" alt="Open access here"></a>
+* Laurence, S., <b>Baker, K. A.</b>, Proietti, V.M., & Mondloch, C.J. (2022). What happens to our representation of identity as familiar faces age? Evidence from priming and identity aftereffects. British Journal of Psychology, 113(3), 677-695. doi: https://doi.org/10.1111/bjop.12560 <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.12560">Open access here.</a>
 
 * <b>Baker, K. A.</b>, & Mondloch, C. J. (2019). Two sides of face learning: Improving between-identity discrimination identities while tolerating more within-person variability in appearance. Perception, 48(11), 1124-1145. doi: https://doi.org/10.1177/0301006619867862
 
-* Zhou, X., Matthews, C., <b>Baker, K. A.</b>, & Mondloch, C. J. (2018). Becoming familiar with a newly encountered face: Evidence of an own-race advantage. Perception, 47(8), 807-820. doi: https://doi.org/10.1177/0301006618783915 <a href="https://www.researchgate.net/publication/326190184_Becoming_Familiar_With_a_Newly_Encountered_Face_Evidence_of_an_Own-Race_Advantage" alt="Open access here"></a>
+* Zhou, X., Matthews, C., <b>Baker, K. A.</b>, & Mondloch, C. J. (2018). Becoming familiar with a newly encountered face: Evidence of an own-race advantage. Perception, 47(8), 807-820. doi: https://doi.org/10.1177/0301006618783915 <a href="https://www.researchgate.net/publication/326190184_Becoming_Familiar_With_a_Newly_Encountered_Face_Evidence_of_an_Own-Race_Advantage">Open access here.</a>
 
 * <b>Baker, K. A.</b>, Laurence, S., & Mondloch, C. J. (2017). How does a newly encountered face become familiar? The effect of within-person variability on adults’ and children’s perception of identity. Cognition, 161, 19-30. doi: https://doi.org/10.1016/j.cognition.2016.12.012
 
 
 <font color="#2F4F4F"><b>Manuscripts that are under revision</b></font>
-* <b>Baker, K.A.</b>, Mondloch, C.J. Bindemann, M. (2024) A criterion-placement theory of face matching. Cognition. Submission # COGNIT-D-24-00948, 1-35. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947575" alt="Preprint here"></a>
+* <b>Baker, K.A.</b>, Mondloch, C.J. Bindemann, M. (2024) A criterion-placement theory of face matching. Cognition. Submission # COGNIT-D-24-00948, 1-35. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947575">Preprint here.</a>
 
 <font color="#2F4F4F"><b>Manuscripts that are under review</b></font>
 
-* <b>Baker, K.A.</b> & Bindemann, M. Decision-making framing in facial image comparison. Journal of Applied Memory and Cognition. Submission # JARMAC 2024-0587, 1-38. <a href="https://osf.io/preprints/psyarxiv/fea3j" alt="Preprint here"></a> 
+* <b>Baker, K.A.</b> & Bindemann, M. Decision-making framing in facial image comparison. Journal of Applied Memory and Cognition. Submission # JARMAC 2024-0587, 1-38. <a href="https://osf.io/preprints/psyarxiv/fea3j">Preprint here.</a> 
 
 <font color="#2F4F4F"><b>Forthcoming (data collection complete)</b></font>
 
