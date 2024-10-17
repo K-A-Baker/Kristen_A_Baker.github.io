@@ -22,10 +22,12 @@ My primary research interests involve face identification (i.e., unfamiliar and 
 <font color="#2F4F4F"><b>Latest Announcements</b></font>
 
 You can find:
-* my new preprint, which poses a solution to the match-mismatch dissociation in unfamiliar face identification, here: DOI: 10.2139/ssrn.4947575
-* my recent paper, which investigates the influence of payoffs and base rates on face identification (published in <i>JARMAC</i>), here: https://doi.org/10.1037/mac0000157 
-* my profile on blue sky [@] k-a-baker.bsky.social
-* my profile at the University of Kent: https://www.kent.ac.uk/psychology/people/4811/baker-kristen
+* My <i>new</i> preprint which poses a solution to the match-mismatch dissociation in unfamiliar face identification <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947575" alt="here"></a>
+* My <i>new</i> preprint which explores the role of response option framing and base rate information in unfamiliar face identification decisions <a href="https://osf.io/preprints/psyarxiv/fea3j" alt="here"></a>
+* An open access version of my recent collaboration which investigates the influence of payoffs and base rates on face identification (published in <i>JARMAC</i>)<a href="https://www.researchgate.net/publication/377917065_Criterion_shifting_in_an_unfamiliar_face-matching_task_Effects_of_base_rates_payoffs_and_perceptual_discriminability" alt="here"></a>
+* Me on <a href="https://bsky.app/profile/k-a-baker.bsky.social" alt="Bluesky"></a>
+
+* Me at <a href="https://www.kent.ac.uk/psychology/people/4811/baker-kristen" alt="the University of Kent"></a>
 
 <html>
 <body style="background-color:#fff8f4;">
