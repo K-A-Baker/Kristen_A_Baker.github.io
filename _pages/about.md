@@ -16,7 +16,7 @@ Prior to coming to the University of Kent, I completed my MA (funded by <i>Ontar
 
 <font color="#2F4F4F"><b>Research Interests</b></font>
 
-My primary research interests involve face identification (i.e., unfamiliar and familiar face identification, face learning) and decision making. I also am interested in other topics such as attention, cognition, and perception. I am interested in using a wide-assortment of methods (e.g., AI, EEG, behaviour and eye tracking) to investigate these processes.
+I am primarily interested in researching face identification (i.e., unfamiliar and familiar face identification, face learning). In my research I have explored the role of experience (e.g., experience with a particular face [face learning], with faces in general [development], and  with categories of faces [e.g., own- vs. other-age faces]), and the role of decision making. However, I also am interested in other cognitive factors such as attention, metacognition, expectation and memory. I  have been using an assortment of different methods (e.g., EEG, behaviour and eye tracking) and approaches (e.g., experimental, lifespan, individual difference designs) to investigate these processes.
 
 
 <font color="#2F4F4F"><b>Latest Announcements</b></font>
