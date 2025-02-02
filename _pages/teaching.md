@@ -7,28 +7,28 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Lecturing/ Modules taught</b> </font>
 
-* PSYC6330 (Applying Psychology; University of Kent; 2023)
+* 2023-2024 - PSYC8640 (Current Issues in Cognitive Psychology and Neuropsychology at the University of Kent)
 
-* PSYC8640 (Current Issues in Cognitive Psychology and Neuropsychology; University of Kent; 2023)
+* 2023 - PSYC6330 (Applying Psychology at the University of Kent)
 
 
 <font color="#2F4F4F"><b>Seminar Leader/Lab Demonstrator</b></font>
 
-* PSYC 4P92 (History of Psychology at Brock University; 09/2021 – 01/2022; 09/2020 – 01/2021; 09/2019 – 05/2020)
+* 2019-2022 - PSYC 4P92 (History of Psychology at Brock University)
 
-* PSYC 2P12 (Lifespan Development at Brock University; 01/2021 – 05/2021)
+* 2021 - PSYC 2P12 (Lifespan Development at Brock University)
 
-* PSYC 2P49 (Perception at Brock University; 05/2020 – 01/2021; 09/2018 – 12/2018)
+* 2018, 2021 - PSYC 2P49 (Perception at Brock University)
 
-* PSYC 2P20 (Cognition at Brock University; 01/2020 – 05/2020; 01/2019 – 05/2019; 01/2017 – 05/2017) 
+* 2017, 2019-2020 - PSYC 2P20 (Cognition at Brock University) 
 
-* PSYC 2P25 (Personality at Brock University; 09/2019 – 12/2019)
+* 2019 - PSYC 2P25 (Personality at Brock University)
 
-* PSYC 2P45 (Learning at Brock University; 01/2018 – 05/2018) 
+* 2018 - PSYC 2P45 (Learning at Brock University) 
 
-* PSYC 3P39 (Computer Data Analysis at Brock University; 09/2017 – 12/2017)
+* 2017 - PSYC 3P39 (Computer Data Analysis at Brock University)
 
-* PSYC 2P30 (Fundamentals of Social Psychology at Brock University; 09/2016 – 12/2016)
+* 2016 - PSYC 2P30 (Fundamentals of Social Psychology at Brock University)
 
 
 <font color="#2F4F4F"><b>Student Research Supervision/Mentorship</b></font>

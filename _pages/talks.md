@@ -7,6 +7,8 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Invited talks</b> </font>
 
+* <b>Baker, K.A. </b> & Bindemann, M. (2024). Face matching and decision making: The influence of framing, task presentation and criterion placement. Invited talk for the Applied Face Cognition Lab Talk Series. Université de Lausanne, Switzerland.  
+
 * <b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2024). How do we recognize faces? Invited talk for the Royal Society's Lates Event. London, United Kingdom.
 
 * <b>Baker, K.A.</b>, Stabile, V.J., Mondloch, C.J., & Bindemann, M. (2023). Decisions in Unfamiliar Face Matching. Invited talk for Open University (Forensic Cognition Research Group). United Kingdom.

@@ -7,7 +7,9 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
-* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). An Economic Approach to Unfamiliar Face Matching: Effects of Base Rates, Payoffs, and Perceptual Discriminability.  Journal of Applied Memory and Cognition. Advance online publication. https://doi.org/10.1037/mac0000157. <a href="https://www.researchgate.net/publication/377917065._Criterion_shifting_in_an_unfamiliar_face-matching_task_Effects_of_base_rates_payoffs_and_perceptual_discriminability">Open access copy available here.</a>
+* <b>Baker, K.A.</b> & Bindemann, M. (2025). Decision-Making Framing in Facial Image Comparison. Manuscript accepted for publication at Journal of Applied Research in Memory and Cognition.  <a href="https://osf.io/preprints/psyarxiv/fea3j">Preprint available here.</a> 
+
+* Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). Criterion shifting in an unfamiliar face-matching task: Effects of base rates, payoffs, and perceptual discriminability. Journal of Applied Research in Memory and Cognition, 13(4), 569–581. doi: https://doi.org/10.1037/mac0000157. <a href="https://www.researchgate.net/publication/377917065._Criterion_shifting_in_an_unfamiliar_face-matching_task_Effects_of_base_rates_payoffs_and_perceptual_discriminability">Open access copy available here.</a>
 
 * <b>Baker, K.A.</b> & Mondloch, C.J. (2023). Unfamiliar face matching ability predicts the slope of face learning. Scientific Reports 13, Article 5248. doi: https://doi.org/10.1038/s41598-023-32244-w. <a href="https://www.nature.com/articles/s41598-023-32244-w">Open access copy available here.</a>
 
@@ -25,11 +27,9 @@ author_profile: true
 
 
 <font color="#2F4F4F"><b>Manuscripts that are under revision</b></font>
+
 * <b>Baker, K.A.</b>, Mondloch, C.J. Bindemann, M. (2024) A criterion-placement theory of face matching. Cognition. Submission # COGNIT-D-24-00948, 1-35. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947575">Preprint available here.</a>
 
-<font color="#2F4F4F"><b>Manuscripts that are under review</b></font>
-
-* <b>Baker, K.A.</b> & Bindemann, M. Decision-making framing in facial image comparison. Journal of Applied Memory and Cognition. Submission # JARMAC 2024-0587, 1-38. <a href="https://osf.io/preprints/psyarxiv/fea3j">Preprint available here.</a> 
 
 <font color="#2F4F4F"><b>Forthcoming (data collection complete)</b></font>
 
