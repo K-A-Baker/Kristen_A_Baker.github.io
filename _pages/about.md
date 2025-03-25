@@ -22,12 +22,17 @@ I am primarily interested in researching face identification (i.e., unfamiliar a
 <font color="#2F4F4F"><b>Latest Announcements</b></font>
 
 You can find:
+* My <i>new</i> paper that was accepted for publication at JARMAC, <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmac0000216"> here.</a> With Bindemann, I explored the role of response option framing and base rate information in unfamiliar face identification decisions. The open access versions of this publication can be found on Research Gate (<a href="https://www.researchgate.net/publication/390030887_Decision-making_framing_in_facial_image_comparison">
+uploaded by the publisher</a>), or the final, accepted, preformatted open access copy <a href="https://osf.io/r9vgt"> here.</a> 
+
 * My <i>new</i> preprint which poses a solution to the match-mismatch dissociation in unfamiliar face identification <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947575">here.</a>
-* My <i>new</i> paper was just accepted for publication at JARMAC. It explores the role of response option framing and base rate information in unfamiliar face identification decisions <a href="https://osf.io/preprints/psyarxiv/fea3j"> here.</a>
+
 * An open access version of my recent collaboration where Stabile, Mondloch and I investigate the influence of payoffs and base rates on face identification (published in <i>JARMAC</i>) <a href="https://www.researchgate.net/publication/377917065_Criterion_shifting_in_an_unfamiliar_face-matching_task_Effects_of_base_rates_payoffs_and_perceptual_discriminability">here.</a>
+
 * Me on <a href="https://bsky.app/profile/k-a-baker.bsky.social">Bluesky.</a>
 
 * Me at <a href="https://www.kent.ac.uk/psychology/people/4811/baker-kristen">the University of Kent.</a>
+
 
 <html>
 <body style="background-color:#fff8f4;">

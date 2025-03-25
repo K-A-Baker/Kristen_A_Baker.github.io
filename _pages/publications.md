@@ -7,7 +7,7 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
-* <b>Baker, K.A.</b> & Bindemann, M. (2025). Decision-Making Framing in Facial Image Comparison. Manuscript accepted for publication at Journal of Applied Research in Memory and Cognition.  <a href="https://osf.io/preprints/psyarxiv/fea3j">Preprint available here.</a> 
+* <b>Baker, K.A.</b> & Bindemann, M. (2025). Decision-Making Framing in Facial Image Comparison. Manuscript accepted for publication at Journal of Applied Research in Memory and Cognition. Advance online publication. https://doi.org/10.1037/mac0000216. <a href="https://osf.io/r9vgt">Open access copy available here.</a> 
 
 * Stabile, V. J., <b>Baker, K.A.</b>, & Mondloch, C.J (2024). Criterion shifting in an unfamiliar face-matching task: Effects of base rates, payoffs, and perceptual discriminability. Journal of Applied Research in Memory and Cognition, 13(4), 569–581. doi: https://doi.org/10.1037/mac0000157. <a href="https://www.researchgate.net/publication/377917065._Criterion_shifting_in_an_unfamiliar_face-matching_task_Effects_of_base_rates_payoffs_and_perceptual_discriminability">Open access copy available here.</a>
 
