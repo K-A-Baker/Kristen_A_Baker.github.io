@@ -23,7 +23,7 @@ I am primarily interested in researching face identification (i.e., unfamiliar a
 
 You can find:
 * My <i>new</i> paper that was accepted for publication at JARMAC, <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmac0000216"> here.</a> With Bindemann, I explored the role of response option framing and base rate information in unfamiliar face identification decisions. The open access versions of this publication can be found on Research Gate (<a href="https://www.researchgate.net/publication/390030887_Decision-making_framing_in_facial_image_comparison">
-uploaded by the publisher</a>), or the final, accepted, preformatted open access copy <a href="https://osf.io/r9vgt"> here.</a> 
+uploaded by the publisher</a>), or <a href="https://osf.io/r9vgt"> here.</a> 
 
 * My <i>new</i> preprint which poses a solution to the match-mismatch dissociation in unfamiliar face identification <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947575">here.</a>
 
