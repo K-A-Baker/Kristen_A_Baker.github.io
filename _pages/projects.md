@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <font color="#008080"><i>On Going Projects</i></font>
+title: <font color="#008080"><i>Current Projects</i></font>
 permalink: /projects/
 author_profile: true
 ---
