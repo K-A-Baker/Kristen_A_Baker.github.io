@@ -9,7 +9,7 @@ redirect_from:
 ---
 <font color="#2F4F4F"><b>Research Background</b></font>
 
-I am <i> British Academy Postdoctoral Fellow </i> (formally a Newton International Fellow, funded by the Royal Society). I work in the School of Psychology at the University of Kent (UK), I am exploring the role of decision making in face identification. I am conducting this research with my collaborator (and Mentor) Markus Bindemann, as well as with other collaborators across the globe (e.g., Canada, Australia). This research has important theoretical implications for models of face identification and learning, as well as important implications for practical settings (e.g., eyewitness testimony, border patrol settings). 
+Currently, I am <i> British Academy Postdoctoral Fellow </i>, and previously I completed a Newton International Fellow, funded by the Royal Society. I work in the School of Psychology at the University of Kent (UK), I am exploring the role of decision making in face identification. I am conducting this research with my collaborator (and Mentor) Markus Bindemann, as well as with other collaborators across the globe (e.g., Canada, Australia). This research has important theoretical implications for models of face identification and learning, as well as important implications for practical settings (e.g., eyewitness testimony, border patrol settings). 
 
 Prior to coming to the University of Kent, I completed my MA (funded by <i>Ontario Graduate Scholarships</i>) and PhD (funded by the <i>Natural Sciences and Engineering Research Council of Canada [CGS-D]</i> and an <i>Ontario Graduate Scholarship</i>) under the supervision of Catherine J. Mondloch at Brock University, Canada. My dissertation research focused on investigating individual differences in face identification and face learning. In other projects, I have used cognitive, neural measures and developmental methods to investigate many aspects of face identification.
 
@@ -21,7 +21,7 @@ I am primarily interested in researching face identification (i.e., unfamiliar a
 
 <font color="#2F4F4F"><b>Latest Announcements</b></font>
 
-* My <i>new</i> paper, which examines the match-mismatch dissociation, was just accepted for publication at Cognition! Together with Catherine J. Mondloch, Peter J.B. Hancock and Markus Bindemann, I showed that individual differences in criterion can explain the effect! Findings were consistent across two large scale studies, and 3 data simulations. 
+* My <i>new</i> paper, which examines the match-mismatch dissociation, was just accepted for publication at Cognition! Together with Catherine J. Mondloch, Peter J.B. Hancock and Markus Bindemann, I showed that individual differences in criterion can explain the effect! Findings were consistent across two large scale studies, and three data simulations. 
 
 
 You can find:
