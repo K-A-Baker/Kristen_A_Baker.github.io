@@ -5,8 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+
 <font color="#2F4F4F"><b>Invited talks</b> </font>
-<font color="#808080">Note. + indicates a student mentee co-author</font>
+<font color="#808080"> (Note. + indicates a student mentee co-author)</font>
 
 
 * <b>Baker, K.A. </b> & Bindemann, M. (2024). Face matching and decision making: The influence of framing, task presentation and criterion placement. Invited talk for the Applied Face Cognition Lab Talk Series. Université de Lausanne, Switzerland.  
