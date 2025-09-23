@@ -32,10 +32,15 @@ author_profile: true
 
 
 <font color="#2F4F4F"><b>Student Research Supervision/Mentorship</b></font>
-<i>Graduate Student Supervision</i>
-* 2023-2024	MSc Thesis student (research design, programming, data analysis, writing), University of Kent
+<i><b>Graduate Student Supervision</i></b>
+<i>PhD Students</i>
+* 2023-2024	NB - PhD student (funded by SEDarc), University of Kent
 
-* 2023-2024	MSc Thesis student (research design, programming, data analysis, writing), University of Kent
+
+<i>MSc Students</i>
+* 2023-2024	NB - MSc Thesis student, University of Kent
+
+* 2023-2024	SJ - MSc Thesis student, University of Kent
 
 
 <i>Undergraduate Student Supervision</i>
