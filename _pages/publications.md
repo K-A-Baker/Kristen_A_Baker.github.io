@@ -7,7 +7,7 @@ author_profile: true
 
 <font color="#2F4F4F"><b>Peer-reviewed works</b></font>
 
-<font color="#808080">Note. + indicates a student mentee co-author</font>
+<font color="#808080"> /n Note. + indicates a student mentee co-author</font>
 
 * <b>Baker, K.A.</b>, Mondloch, C.J., Hancock, P.J.B. & Bindemann, M. (2025) A criterion-placement theory of face matching. Cognition. Manuscript accepted for publication.
 
