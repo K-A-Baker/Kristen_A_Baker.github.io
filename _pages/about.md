@@ -21,10 +21,9 @@ I am primarily interested in researching face identification (i.e., unfamiliar a
 
 <font color="#2F4F4F"><b>Latest Announcements</b></font>
 
-* My <i>new</i> paper, which examines the match-mismatch dissociation, was just accepted for publication at Cognition! Together with Catherine J. Mondloch, Peter J.B. Hancock and Markus Bindemann, I showed that individual differences in criterion can explain the effect! Findings were consistent across two large scale studies, and three data simulations. 
-
-
 You can find:
+* My <i>new</i> paper, that was accepted by Cognition, openly accessible <a href="https://www.sciencedirect.com/science/article/pii/S0010027725002604"> here.</a> With Catherine J. Mondloch, Peter J.B. Hancock and Markus Bindemann, I showed that individual differences in criterion can explain the effect! Findings were consistent across two large scale studies, and three data simulations. 
+
 * My <i>new</i> paper that was accepted for publication at JARMAC, <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmac0000216"> here.</a> With Bindemann, I explored the role of response option framing and base rate information in unfamiliar face identification decisions. Open access versions can be found on Research Gate (<a href="https://www.researchgate.net/publication/390030887_Decision-making_framing_in_facial_image_comparison">uploaded by the publisher</a>), or <a href="https://osf.io/r9vgt"> here.</a> 
 
 * An open access version of my recent collaboration where Stabile, Mondloch and I investigate the influence of payoffs and base rates on face identification (published in <i>JARMAC</i>) <a href="https://www.researchgate.net/publication/377917065_Criterion_shifting_in_an_unfamiliar_face-matching_task_Effects_of_base_rates_payoffs_and_perceptual_discriminability">here.</a>
